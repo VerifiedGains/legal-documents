@@ -1,14 +1,14 @@
-# InvestingApps Portfolios Terms And Conditions
+# VerifiedGains Terms of Service
 
-**Last Updated: February 3, 2026**
+**Last Updated: February 4, 2026**
 
 ## 1. Acceptance of Terms
 
-By accessing or using InvestingApps Portfolios ("the App"), you agree to be bound by these Terms of Service. If you do not agree, do not use the App.
+By accessing or using VerifiedGains ("the App"), you agree to be bound by these Terms of Service. If you do not agree, do not use the App.
 
 ## 2. Description of Service
 
-InvestingApps Portfolios is a Reddit application that allows users to:
+VerifiedGains is a Reddit application that allows users to:
 - Connect brokerage accounts via SnapTrade (read-only access)
 - Display verified portfolio holdings publicly
 - Participate in community leaderboards
@@ -56,7 +56,7 @@ Your use of these services is subject to their respective terms and policies.
 
 ## 8. Intellectual Property
 
-- The App and its original content are owned by InvestingApps Portfolios
+- The App and its original content are owned by VerifiedGains
 - You retain ownership of your portfolio data
 - By using the App, you grant us a license to display your portfolio data publicly
 
@@ -75,7 +75,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW:
 
 ## 10. Indemnification
 
-You agree to indemnify and hold harmless InvestingApps Portfolios and its operators from any claims, damages, or expenses arising from your use of the App or violation of these Terms.
+You agree to indemnify and hold harmless VerifiedGains and its operators from any claims, damages, or expenses arising from your use of the App or violation of these Terms.
 
 ## 11. Account Termination
 
@@ -100,7 +100,7 @@ If any provision of these Terms is found unenforceable, the remaining provisions
 
 ## 15. Entire Agreement
 
-These Terms, along with our Privacy Policy and Reddit's Terms of Service, constitute the entire agreement between you and InvestingApps Portfolios regarding use of the App.
+These Terms, along with our Privacy Policy and Reddit's Terms of Service, constitute the entire agreement between you and VerifiedGains regarding use of the App.
 
 ## 16. Contact
 
@@ -109,4 +109,4 @@ For questions about these Terms:
 
 ---
 
-By using InvestingApps Portfolios, you acknowledge that you have read, understood, and agree to these Terms of Service.
+By using VerifiedGains, you acknowledge that you have read, understood, and agree to these Terms of Service.
