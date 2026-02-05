@@ -1,10 +1,9 @@
-# VerifiedGains Terms of Service
-
+# VerifiedGains Terms And Conditions
 **Last Updated: February 4, 2026**
 
 ## 1. Acceptance of Terms
 
-By accessing or using VerifiedGains ("the App"), you agree to be bound by these Terms of Service. If you do not agree, do not use the App.
+By accessing or using VerifiedGains ("the App"), you agree to be bound by these Terms And conditions. If you do not agree, do not use the App.
 
 ## 2. Description of Service
 
