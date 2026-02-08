@@ -100,6 +100,7 @@ We may update this Privacy Policy from time to time. We will notify you of chang
 ## Contact Us
 
 For privacy-related questions or data deletion requests:
+- Email: Support@verifiedgains.com
 - Reddit: u/investingapps
 
 ## Data Processing Summary
