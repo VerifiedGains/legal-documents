@@ -8,7 +8,7 @@ By accessing or using VerifiedGains ("the App"), you agree to be bound by these 
 ## 2. Description of Service
 
 VerifiedGains is a Reddit application that allows users to:
-- Connect brokerage accounts via SnapTrade (read-only access)
+- Connect brokerage accounts via Plaid (read-only access)
 - Display verified portfolio holdings publicly
 - Participate in community leaderboards
 - Receive "Verified Investor" flair
@@ -49,7 +49,7 @@ This is the core functionality of the App. If you do not want this information p
 
 The App uses third-party services:
 - **Reddit**: For authentication and hosting
-- **SnapTrade**: For brokerage data aggregation
+- **Plaid**: For brokerage data aggregation
 
 Your use of these services is subject to their respective terms and policies.
 
