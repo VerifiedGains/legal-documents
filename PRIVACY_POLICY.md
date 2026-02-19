@@ -10,7 +10,7 @@ VerifiedGains ("we," "our," or "the App") is committed to protecting your privac
 
 ### Information You Provide
 - **Reddit Account Information**: Your Reddit username and public profile information (as permitted by Reddit's API)
-- **Brokerage Connection**: When you connect a brokerage account, we receive read-only access to your portfolio data through SnapTrade
+- **Brokerage Connection**: When you connect a brokerage account, we receive read-only access to your portfolio data through Plaid
 
 ### Information Collected Automatically
 - **Usage Data**: How you interact with the App (features used, pages viewed)
@@ -18,7 +18,7 @@ VerifiedGains ("we," "our," or "the App") is committed to protecting your privac
 
 ### Information from Third Parties
 - **Reddit**: Profile and authentication data
-- **SnapTrade**: Portfolio holdings, account balances, and trading activity (read-only)
+- **Plaid**: Portfolio holdings, account balances, and trading activity (read-only)
 
 ## How We Use Your Information
 
@@ -43,7 +43,7 @@ We do not sell, rent, or trade your personal information to third parties.
 ### Third-Party Services
 The App integrates with third-party services with their own privacy policies:
 - **Reddit:** [Reddit Privacy Policy](https://www.reddit.com/policies/privacy-policy)
-- **SnapTrade:** [SnapTrade Privacy Policy](https://snaptrade.com/privacy-policy)
+- **Plaid:** [Plaid Privacy Policy](https://Plaid.com/privacy-policy)
 
 ### Legal Requirements
 We may disclose information if required by law or to protect our rights.
